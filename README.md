@@ -29,7 +29,7 @@ The Ising model is a mathematical model in statistical mechanics. It describes a
 
 ```bash
 python ising_simulation.py
-
+```
 
 ## Visualization
 The code provides two main visualizations:
