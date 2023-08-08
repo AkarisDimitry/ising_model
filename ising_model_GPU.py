@@ -122,3 +122,14 @@ plt.xlabel(r'$\left(\frac{k}{J}\right)T$')
 plt.ylabel(r'$\bar{m}$')
 plt.legend(facecolor='white', framealpha=1)
 plt.show()
+
+'''
+Here's a brief overview of the physics:
+
+The code simulates the 2D Ising model, a classic model in statistical mechanics.
+In the Ising model, a lattice (or grid) is populated by spins that can be either up (+1) or down (-1).
+The energy of the system is determined by the interactions between neighboring spins. Opposite neighboring spins increase the energy, while like neighboring spins decrease it.
+The Metropolis algorithm is a method to simulate the evolution of this system over time and temperature, helping to understand phenomena like phase transitions.
+The code runs the algorithm on two initial configurations: one with 75% negative spins and another with 75% positive spins.
+The final plots give insights into how the average spin and energy change over time and temperature.
+'''

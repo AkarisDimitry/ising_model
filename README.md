@@ -28,7 +28,9 @@ The Ising model is a mathematical model in statistical mechanics. It describes a
 3. Run the main script to see the visualization of the lattice and plots of average spin and energy vs. temperature.
 
 ```bash
-python ising_simulation.py
+python ising_model_CPU.py
+python ising_model_3D_GPU.py
+python ising_model_GPU.py
 ```
 
 ## Visualization
