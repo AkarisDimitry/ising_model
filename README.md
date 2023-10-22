@@ -1,5 +1,7 @@
 # 2D Ising Model Simulation with Metropolis Algorithm
 
+![image](https://github.com/AkarisDimitry/ising_model/assets/34775621/21308bbf-2e7b-4c96-97fa-45b66e2d7a26)
+
 This repository contains a PyTorch-based simulation of the 2D Ising model using the Metropolis algorithm. The code provides insights into how the average spin and energy of the system change over time and temperature.
 
 ## Table of Contents
